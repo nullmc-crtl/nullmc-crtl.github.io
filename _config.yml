@@ -1,3 +1,15 @@
-title: My Markdown Site
+# Theme Setup
 remote_theme: just-the-docs/just-the-docs
+title: My Markdown Site
+
+# 🎨 Color Schemes
+# Options: "light" (default) or "dark"
 color_scheme: dark
+
+# 🔍 Search Bar
+search_enabled: true
+search:
+  # Highlights the search box when you press Ctrl + K (or Cmd + K)
+  focus_shortcut_key: k
+  # Adds a "Search" button in the bottom corner of mobile screens
+  button: true
